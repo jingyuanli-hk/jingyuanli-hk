@@ -5,8 +5,7 @@ I am a researcher and academic specializing in theory of risk and uncertainty, w
 
 ## 🔭 Research Interests
 - risk and uncertainty theory
-- Lean 4 applications and development
-- 
+- Lean 4 applications and development- 
 
 ## 🏫 Academic Background
 -  Ph.D.in Economics, 2004,  Texas A&M University  (U.S.A.); M.A., Quantitative Economics, 1999, Huazhong University of Science and Technology (China)
