@@ -1,7 +1,7 @@
 # Dr. Jingyuan Li
 
 ## 👋 About Me
-I am a researcher and academic specializing in theory of risk and uncertainty, with expertise in Lean 4. Currently affiliated with Lingnan University, my research focuses on applying formal methods to managerial decision analytics. 
+I am a researcher and academic specializing in theory of risk and uncertainty. Currently affiliated with Lingnan University, my research focuses on applying formal methods to managerial decision analytics. 
 
 ## 🔭 Research Interests
 - risk and uncertainty theory
